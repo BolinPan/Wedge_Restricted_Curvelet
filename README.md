@@ -1,7 +1,5 @@
 # Wedge_Restricted_Curvelet
 
-### **Photoacoustic Reconstruction Using Sparsity in Curvelet Frame**
-
 - **License:** This project is licensed under the terms of the MIT license
 - **Author:** Bolin Pan, Marta M. Betcke
 - **Institution:** University College London
@@ -13,6 +11,6 @@ Scripts will need kWave toolbox and CurveLab-2.1.3
 - **3D Curvelet Transform:** CPU implementaion
 
 
-Note: We can only upload codes for wedge restricted Curvelet transform for data reconstruction. Implementation of other reconstruction methods are a part of a larger imagereconstruction toolbox which we are working on releasing in the future
+Note: We can only upload codes of wedge restricted Curvelet transform for data reconstruction. Implementations of other reconstruction methods are a part of a larger image reconstruction toolbox which we are working on releasing in the future.
 
 ###### Thank you for using our code, kindly report any suggestion to the corresponding author.

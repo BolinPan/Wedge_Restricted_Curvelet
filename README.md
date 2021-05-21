@@ -1,13 +1,18 @@
 # Wedge_Restricted_Curvelet
-Photoacoustic Reconstruction Using Sparsity in Curvelet Frame
 
-License: GNU General Public License v3.0
+### **Photoacoustic Reconstruction Using Sparsity in Curvelet Frame**
 
-Author: Mathilde Galinier
+- **License:** This project is licensed under the terms of the MIT license
+- **Author:** Bolin Pan, Marta M. Betcke
+- **Institution:** University College London
+- **Email:** megalinier@gmail.com
+- **Related publication:** This repository will collect codes accompanying the publication: Bolin Pan, Simon R. Arridge, Felix Lucka, Ben T. Cox, Nam Huynh, Paul C. Beard, Edward Z. Zhang, Marta M. Betcke "Photoacoustic Reconstruction Using Sparsity in Curvelet Frame" https://arxiv.org/abs/2011.13080
 
-Institution: Università degli studi di Modena e Reggio Emilia
-Doctoral programme: INdAM Doctoral Programme in Mathematics and Applications Cofunded by Marie Sklodowska-Curie Actions (INdAM-DP-COFUND-2015)
-Email: megalinier@gmail.com
-Related publication: https://arxiv.org/abs/2006.01620
-Please use the following citation:
-T. A. Bubba, M. Galinier, M. Lassas, M. Prato, L. Ratti, and S. Siltanen. 'Deep neural networks for inverse problems with pseudodifferential operators: an ap-plication to limited-angle tomography'. To appear in SIAM Journal on Imaging Sciences (SIIMS), 2020.
+Scripts will need kWave toolbox and CurveLab-2.1.3
+- **2D Curvelet Transform:** Matlab implementation
+- **3D Curvelet Transform:** CPU implementaion
+
+
+Note: We can only upload codes for wedge restricted Curvelet transform for data reconstruction. Implementation of other reconstruction methods are a part of a larger imagereconstruction toolbox which we are working on releasing in the future
+
+###### Thank you for using our code, kindly report any suggestion to the corresponding author.

@@ -1,8 +1,10 @@
 # Wedge_Restricted_Curvelet
 Photoacoustic Reconstruction Using Sparsity in Curvelet Frame
 
-License: GNU General Public License v3.0\\
+License: GNU General Public License v3.0
+
 Author: Mathilde Galinier
+
 Institution: Università degli studi di Modena e Reggio Emilia
 Doctoral programme: INdAM Doctoral Programme in Mathematics and Applications Cofunded by Marie Sklodowska-Curie Actions (INdAM-DP-COFUND-2015)
 Email: megalinier@gmail.com

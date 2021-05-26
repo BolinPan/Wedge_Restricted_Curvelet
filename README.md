@@ -10,7 +10,8 @@ Scripts will need kWave toolbox (http://www.k-wave.org/) and CurveLab-2.1.3 (htt
 - **2D Curvelet Transform:** Matlab implementation
 - **3D Curvelet Transform:** CPU implementaion
 
+Content:
+- Wedge Restricted Curvelet transform in 2D and 3D with basic use example
+- Reweighted SALSA method for planar sensor PAT data reconstruction in Wedge Restricted Curvelet basis
 
-Note: We can only upload codes of wedge restricted Curvelet transform for data reconstruction. Implementations of other reconstruction methods are a part of a larger image reconstruction toolbox which we are working on releasing in the future.
-
-###### Thank you for using our code, kindly report any suggestion to the corresponding author.
+###### Thank you for using our code, kindly report any suggestions to the corresponding author.

@@ -1,4 +1,4 @@
-# Wedge_Restricted_Curvelet
+# Wedge Restricted Curvelet
 
 - **License:** This project is licensed under the terms of the MIT license
 - **Author:** Bolin Pan, Marta M. Betcke

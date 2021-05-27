@@ -15,7 +15,7 @@ function maskC = restrictCurvelet2D(C,rAngle,ID)
 %   maskC  - Curvelet mask for 2D data restrict curvelet representation
 %
 %
-% Copyright (C) 2020 Bolin Pan
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
 
 
 % construct all-1 curvelet with structure of C

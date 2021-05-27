@@ -20,7 +20,9 @@ function [rCurvelets,non_rCurvelets,allCurveletAnglesInfo] = getRestrictedCurvel
 %   allCurveletAngles - a structure containing angle (0, pi/2) orientation 
 %                       in image domain 
 %
-% Copyright (C) 2021 Bolin Pan
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
+
 
 % assign parameters
 nangles_coarse = cs_transform.nangles_coarse;

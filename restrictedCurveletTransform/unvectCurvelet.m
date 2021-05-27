@@ -1,8 +1,11 @@
 function C = unvectCurvelet(x, S, maskC)
 % UNVECTCURVELET Reshapes vector of Curvelet coefficients x to Curvelet with structure S and mask maskC
+%
 %  C = unvectCurvelet(x, S, maskC)
 %
-% Copyright (C) 2013 Marta M. Betcke
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
+
 
 C = S; %initialize with S for speed
 

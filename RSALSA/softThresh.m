@@ -1,8 +1,10 @@
 function y = softThresh(x,T)
 % SOFTTHRESH Soft thresholding
+%
 %  softThresh(x,T)
 %
-% Copyright (C) 2013 Marta M. Betcke
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
 
 size_x = size(x);
 

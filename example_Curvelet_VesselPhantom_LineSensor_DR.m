@@ -1,12 +1,11 @@
-% A example to demonstrate data reconstruction on 2D vessel phantom with
+% An example to demonstrate data reconstruction on 2D vessel phantom with
 % line sensors geometry in PAT.
 %
-% add k-wave and CurveLab toolbox into the path for running this script.
+% Add k-wave and CurveLab toolbox into the path for running this script.
 %
 %
-% Copy right (C) 2021 Bolin Pan
-%
-% 
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
+
 
 clear all; close all; clc;
 

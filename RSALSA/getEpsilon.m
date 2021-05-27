@@ -4,7 +4,8 @@ function epsilon = getEpsilon(C,epsOld,tol,mode)
 %
 % epsilon = getEpsilon(C,epsOld,tol,mode)
 %
-% Copyright (C) 2021 Bolin Pan
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
 
 
 %%% compute the xi0 curvelet

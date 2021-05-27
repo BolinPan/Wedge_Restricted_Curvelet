@@ -19,7 +19,9 @@ function [cs_transform, cs_transform_tag] = curveletCSTransform2D_(cs_transform)
 %     imagePsi       - handle to function visualizing Psi coefficients as an image
 %   cs_transform_tag - unique tag identifying the transform
 %
-% Copyright (C) 2021 Bolin Pan and Marta M. Betcke
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
+
 
 if cs_transform.real
   real_tag = 'real';

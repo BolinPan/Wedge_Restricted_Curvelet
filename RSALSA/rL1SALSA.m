@@ -29,7 +29,8 @@ function [u,info] = rL1SALSA(f,para)
 %   u           - first version of the primary variable
 %   info        - information about the iteration
 %
-% Copyright (C) 2021 Bolin Pan
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
 
 %%% read out parameters (see above)
 stopCriterion     = para.stopCriterion;

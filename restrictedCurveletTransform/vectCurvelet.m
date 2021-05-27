@@ -1,8 +1,11 @@
 function x = vectCurvelet(C, maskC, cSize)
 % VECTCURVELET Vectorizes Curvelet coefficients, ordering: scale, angle, (:)
+%
 %  x = vectCurvelet(C)
 %
-% Copyright (C) 2013 Marta M. Betcke
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
+
 
 if nargin < 2 || isempty(maskC)
   % If no mask specified, construct all-1 mask

@@ -1,8 +1,7 @@
-% THIS FILE IS AN EXAMPLE ONLY. DO NOT MODIFY THIS FILE TO RUN EXPERIMENTS!
-% MAKE YOUR OWN COPY IN WHICH YOU ADJUST PATHS, OPTIONS ETC.
+% A example to demonstrate data reconstruction on 2D vessel phantom with
+% line sensors geometry in PAT.
 %
-% A script to demonstrate data reconstruction on 2D vessel phantom with
-% line sensors geometry in PAT
+% add k-wave and CurveLab toolbox into the path for running this script.
 %
 %
 % Copy right (C) 2021 Bolin Pan

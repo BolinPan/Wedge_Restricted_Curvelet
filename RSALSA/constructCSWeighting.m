@@ -3,7 +3,9 @@ function wSolver = constructCSWeighting(para)
 %
 % wSolver = constructCSWeighting(para)
 %
-% Copyright (C) 2021 Bolin Pan
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
+
 
 % determine whether it is dynamic or static
 mode   = para.weightMode;

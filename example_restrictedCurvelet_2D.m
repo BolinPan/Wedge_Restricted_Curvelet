@@ -1,10 +1,9 @@
-% THIS FILE IS AN EXAMPLE ONLY. DO NOT MODIFY THIS FILE TO RUN EXPERIMENTS!
-% MAKE YOUR OWN COPY IN WHICH YOU ADJUST PATHS, OPTIONS ETC.
-%
-% This script shows the restricted Curvelet transform on 2D ball phantom.
+% An example to show the restricted Curvelet transform on 2D ball phantom.
 % 
+% Add CurveLab toolbox into the path for running this script.
 %
-% Copy right (C) 2021 Bolin Pan
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
+
 
 clear all; close all; clc;
 

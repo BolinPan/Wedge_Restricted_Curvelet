@@ -12,7 +12,8 @@ function img = curveletDispcoef(C, scaling, bkg)
 % This function is modified the fdct_wrapping_dispcoef.m in the CurveLab
 % toolbox
 %
-% Copyright (C) 2021 Bolin Pan and Marta M. Betcke  
+%
+% Copy right (C) 2021 Bolin Pan & Marta M. Betcke
 
 
   if nargin < 3
